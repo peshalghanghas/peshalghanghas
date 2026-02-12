@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Peshal
 
-<!--
-**peshalghanghas/peshalghanghas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student focused on systems programming, networking, and backend development.
 
-Here are some ideas to get you started:
+## Technical Interests
+- Operating Systems
+- Networking
+- Database Design
+- Embedded Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Building
+- Custom Linux Shell (C)
+- Multi-Threaded TCP Chat Server
+- E-Commerce Relational Database
+- Inventory Management API
+- IoT Sensor Simulation
+
+## Tech Stack
+- C / C++
+- Python
+- SQL (PostgreSQL / MySQL)
+- Linux / POSIX
+- Flask
