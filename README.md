@@ -20,4 +20,3 @@ Computer Engineering student focused on systems programming, networking, and bac
 - Python
 - SQL (PostgreSQL / MySQL)
 - Linux / POSIX
-- Flask
